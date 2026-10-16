@@ -1,4 +1,5 @@
 # dashboard_com_chat
+https://isabelapoli.github.io/dashboard_com_chat/
 Dashboard feito no ChatGPT com Canvas para responder as seguintes perguntas de negócio:
 
 ->Qual foi o ano mais fraco e melhor de vendas?
